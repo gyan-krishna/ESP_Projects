@@ -13,7 +13,7 @@ import http
 import random
 import time
 
-base = r'http://192.168.0.104/'
+base = r'http://192.168.0.105/'
 
 def transfer(data):   #use to send and receive data
     try:
